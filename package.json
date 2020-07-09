@@ -1,0 +1,26 @@
+{
+  "name": "asteroids",
+  "version": "1.0.0",
+  "author": "CAH",
+  "scripts": {
+    "start": "node app", 
+	"dev":"nodemon app"
+  },
+  "dependencies": {
+    "express-session": "",
+    "cookie-parser": "",
+    "passport": "",
+    "passport-local": "",
+    "passport-http": "",
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "mongoose": "",
+    "cors": "",
+    "faye": "",
+    "passport-jwt": "^1.2.1",
+    "jwt-simple": "^0.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
